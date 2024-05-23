@@ -25,3 +25,6 @@ git@github.com:fsalam1984/note_taker.git
 
 # Render link
 https://note-taker-1-6h5q.onrender.com/
+
+# Screenshot
+![Screenshot 2024-05-23 at 6 26 01 PM](https://github.com/fsalam1984/note_taker/assets/161408871/41cac583-e931-4f0c-bd1c-c591b184acf7)
